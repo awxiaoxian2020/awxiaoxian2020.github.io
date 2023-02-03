@@ -1,3 +1,4 @@
 node_modules
 logs/.vitepress/cache
+logs/.vitepress/dist
 .vscode
