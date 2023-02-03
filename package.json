@@ -1,0 +1,18 @@
+{
+  "name": "awxiaoxian2020.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "flexsearch": "^0.7.31",
+    "markdown-it": "^13.0.1",
+    "vitepress": "^1.0.0-alpha.45",
+    "vitepress-plugin-search": "^1.0.4-alpha.19",
+    "vue": "^3.2.47"
+  },
+  "scripts": {
+    "logs:dev": "vitepress dev logs",
+    "logs:build": "vitepress build logs",
+    "logs:serve": "vitepress serve logs"
+  }
+}
